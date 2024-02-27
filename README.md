@@ -111,3 +111,7 @@ Results in:
         Looking for package 'drop_box'... found (Drop Box).
         Checking preconditions... passed.
         Installing... installed.
+
+# Installation Complete
+
+At this point, BrandCentral should be installed, along with the Drop Box add-on.
