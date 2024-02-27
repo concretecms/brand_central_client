@@ -19,3 +19,6 @@
 /.phpunit.*
 /public/hot
 .DS_Store
+
+public/packages/brand_central
+public/packages/drop_box
